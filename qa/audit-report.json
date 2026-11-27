@@ -1,0 +1,17 @@
+{
+  "project": "Mandarin XI Semester 1",
+  "revisi": "kartu lab PINYIN + ARTI saja, kontras warna diperbaiki",
+  "hasil": {
+    "fakta": "9 bab · 31 topik · 62 soal — terverifikasi",
+    "lab": "semua 31 lab: kartu hanya pinyin (jade, teks krim) + arti (emas, teks coklat); hanzi tetap di baris rumus, label langkah/kosakata, dan dialog",
+    "kontras": "pinyin rgb(255,249,239) di atas jade gradient; arti rgb(107,83,32) di atas krem — lolos WCAG",
+    "interaksi": "nada 1-4 berganti (tāng→tǎng→tǎng→tàng), langkah, dialog, rumus — benar",
+    "soal": "quiz 7 soal → hasil 2 dari 7 benar (ring 29) + pembahasan; latihan campuran 10 soal",
+    "font": "Noto Sans SC 400/600 + DM Sans — terpakai",
+    "mobile": "tanpa overflow, grid 2 kolom, chip rail bab",
+    "console": "0 error",
+    "build": "dist/index-QYNeXRan.js 92.67 kB (gzip 28.52) + index-BR__H3ht.css 334.87 kB"
+  },
+  "preview": "http://localhost:3009/",
+  "audit": ["mn-audit.mjs", "mn-audit2.mjs", "mn-audit3.mjs", "mn-audit4.mjs"]
+}
